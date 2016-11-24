@@ -1,0 +1,11 @@
+# Site settings
+title: Introduction to R
+#email: sebastianbarfort@gmail.com
+description: PhD Course 2017<br/> Department of Political Science<br/> University of Copenhagen
+baseurl: "/intro_r_phd"
+url:  "sebastianbarfort.github.io" # the base hostname & protocol for your site
+#twitter_username:
+github_username:  intro_r_phd
+
+# Build settings
+markdown: kramdown
