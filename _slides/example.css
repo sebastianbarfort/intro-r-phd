@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif|PT+Serif:b|PT+Serif:i);
+
+
+.remark-slide-content { 
+  background: #000;
+  color: #fff;}
+
+a:link,
+a:visited {
+  color: orange;
+  text-decoration: none;
+}  
+a:hover {
+  text-decoration: underline;
+}	
+
+body { 
+  color: #fff;
+  padding: 2em;
+  font-family: "PT Serif"}
+h1, h2, h3 {
+  color: #fff;
+  font-family: "PT Serif";
+  font-weight: normal;
+}
+
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
