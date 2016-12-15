@@ -15,7 +15,7 @@ A tentative outline of the course, subject to change, is below:
 
 - *Day 1:* Introduction to `R`, basics (reading/writing data, data cleaning, merging, types of data), functions, getting help when things don’t work, data visualization.
 - *Day 2:* Linear and binary choice models, panel data, interactions, standard errors, methods for causal inference, data visualization.
-- *Day 3:* Some combination of: working and visualizing spatial data, analyzing text data, web scraping, statistical learning.
+- *Day 3:* Analyzing text data, web scraping, statistical learning, communicating results.
 
 \noindent My plan is to tailor the third day to the specific needs of the course participants. Therefore, if you're enrolled and have a preference for some subset of topics for the third day (or other topics not listed), please send me an email. \newline
 
@@ -45,7 +45,12 @@ print("R is running on my computer")
 ## [1] "R is running on my computer"
 \end{verbatim}
 
-\noindent \textbf{Readings/References}: Below are readings or references for each day of the course. I don't expect you to read all these in detail, but it will be easier for you to follow along if you've browsed at least some of them before we meet. You can also use them as references if you want to dig deeper into some of the details after the course. I will mention supplementary texts in my slides in case you want to go further with the topics covered in the course.
+\noindent \color{red} \textbf{Important}: \color{black} If you for some reason can't get `R` and `RStudio` installed before we meet then send me an email before the first class. However, I expect that you've tried as hard as you can using all the resources available online before emailing me. \newline
+
+
+\noindent \textbf{Readings/References}: Below are readings or references for each day of the course. I don't expect you to read all these in detail, but it will be easier for you to follow along if you've browsed at least some of them before we meet. I know that time is costly so you can also the readings as references if you want to catch up on some details after the course. I will mention supplementary texts in my slides in case you want to go further with the topics covered in the course.
+
+\clearpage
 
 \begin{center} \textbf{Day 1} \end{center}
 
@@ -62,11 +67,17 @@ print("R is running on my computer")
 
 \begin{center} \textbf{Day 3} \end{center}
 
-- Wickham, Hadley. 2014. "[rvest: easy web scraping with R](http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/)". RStudio Blog.
+- Wickham, Hadley. 2014. "[`rvest`: Easy web scraping with `R`](http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/)". RStudio Blog.
 - Shiab, Nael. 2015. "[On the Ethics of Web Scraping and Data Journalism](http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)". Global Investigative Journalism Network.
 - The Economist. 2016. "[What APIs are](http://www.economist.com/blogs/economist-explains/2016/05/economist-explains-20?fsrc=scn/tw/te/bl/ed/)."
+- Imai, Kosuke. 2016. *A First Course in Quantitative Social Science*. *Chapter 5, Section 1-2*.
+- Grimmer, Justin, and Brandon M. Stewart. 2013. "[Text as data: The promise and pitfalls of automatic content analysis methods for political texts](https://pan.oxfordjournals.org/content/early/2013/01/21/pan.mps028.short)." *Political Analysis*, 21.3: 267-297.
+- Silge, Julia and David Robinson. 2016. *[Tidy Text Mining with R](http://tidytextmining.com/)*. *Chapters 2, 6, 7*.
+- Varian. Hal. 2014. ["Big Data: New Tricks for Econometrics"](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.2.3). *Journal of Economic Perspectives*, 28.2: 3-27.
+- Kleinberg, Jon, et al. "[Prediction policy problems](http://www.cs.cornell.edu/home/kleinber/aer15-prediction.pdf)." *American Economic Review*, 105.5 (2015): 491-495.
+- Grolemund, Garrett and Hadley Wickham. 2016. "[R for Data Science](http://r4ds.had.co.nz/)". *Chapters 27, 29*.
 
-We will work with data from these papers 
+We will work with data from these papers
 
 - Jones, Benjamin F., and Benjamin A. Olken. 2005. "[Do Leaders Matter? National Leadership and Growth Since World War II](http://qje.oxfordjournals.org/content/120/3/835.abstract)." *The Quarterly Journal of Economics*, 120.3: 835-864.
 - Andersen, Asger L., David D. Lassen, and Lasse H. W. Nielsen. 2012. "[Late budgets](https://www.aeaweb.org/articles?id=10.1257/pol.4.4.1)." *American Economic Journal: Economic Policy*, 4.4: 1-40.
