@@ -11,7 +11,7 @@
 The aim of this course is to introduce and prepare participants to do quantitative academic work within the social sciences. As increasing emphasis in academics is being placed on the skills needed to effectively gather, handle, model, and analyze data as well as present results to a range of audiences, this course will provide participants with important tools for doing independent research. Furthermore, the skills taught in this course are also in high demand outside academia. Participants will be introduced to a modern workflow for doing effective quantitative research using the `R` programming language. `R` is a free (based on open source principles) statistical software package, which is supported by a very large international research community. The program can be used to do all types of statistical analyses. \newline
 
 \noindent \textbf{Content:}
-A tentative outline of the course, subject to change, is below:
+A tentative outline of the course is below:
 
 - *Day 1:* Introduction to `R`, basics (reading/writing data, data cleaning, merging, types of data), functions, getting help when things don’t work, data visualization.
 - *Day 2:* Linear and binary choice models, panel data, interactions, standard errors, methods for causal inference, data visualization.
@@ -20,7 +20,7 @@ A tentative outline of the course, subject to change, is below:
 \noindent My plan is to tailor the third day to the specific needs of the course participants. Therefore, if you're enrolled and have a preference for some subset of topics for the third day (or other topics not listed), please send me an email. \newline
 
 \noindent \textbf{Format and Evaluation:}
-The course will be very hands-on and will primarily be practical instruction using `R`. Focus will be on giving participants hands-on experience doing actual analysis, and finish the course with a series of small scripts that can be used in the future. Practical exercises using real-world research examples from economics and political science will be assigned for each session. \newline
+The course will be hands-on and will primarily be practical instruction using `R`. Focus will be on giving participants hands-on experience doing actual analysis, and finish the course with a series of small scripts that can be used in the future. Practical exercises using real-world research examples from economics and political science will be assigned for each session. \newline
 
 \noindent \textbf{Preparation}: Please make sure you install `R` and `RStudio` before the first day of class. [`R`](http://www.r-project.org/) is a free software environment for statistical computing and graphics. It works on all platforms. If you want to watch a step-by-step tutorial on how to install R for Mac or Windows, you can watch these videos
 
@@ -48,7 +48,7 @@ print("R is running on my computer")
 \noindent \color{red} \textbf{Important}: \color{black} If you for some reason can't get `R` and `RStudio` installed before we meet then send me an email before the first class. However, I expect that you've tried as hard as you can using all the resources available online before emailing me. \newline
 
 
-\noindent \textbf{Readings/References}: Below are readings or references for each day of the course. I don't expect you to read all these in detail, but it will be easier for you to follow along if you've browsed at least some of them before we meet. I know that time is costly so you can also the readings as references if you want to catch up on some details after the course. I will mention supplementary texts in my slides in case you want to go further with the topics covered in the course.
+\noindent \textbf{References}: Below are references for each day of the course. It's up to you to decide whether to read these before the course, they're provided primarily if you want to catch up on some details after the course. I will mention supplementary texts in my slides in case you want to go further with the topics covered in the course.
 
 \clearpage
 

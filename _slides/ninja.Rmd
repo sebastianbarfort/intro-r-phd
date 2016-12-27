@@ -10,7 +10,6 @@ output:
     nature:
       highlightStyle: arta
       ratio: '16:9'
-    
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +18,7 @@ options(htmltools.dir.version = FALSE)
 
 # 
 
-[**Introduction to R**](www.stack.com) <br>
+[**Introduction to R**](www.sebastianbarfort.github.io/intro_r_phd/) <br>
 Sebastian Barfort 
 
 PhD Course <br>
@@ -50,16 +49,6 @@ with simple, scroll-based navigation.
 
 ---
 
-class: center, middle
-
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
-
-???
-
-Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
-
----
-
 <br>
 
 <p>In addition to the mouse,
@@ -71,6 +60,13 @@ Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharin
 <br>
 <p class="grey">Multiple key presses will skip multiple slides.
 
+---
+
+class: center
+
+# 
+
+<font color="grey">Topic 1</font> Bla bla bla. 
 
 ---
 
